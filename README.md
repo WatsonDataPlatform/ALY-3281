@@ -63,3 +63,4 @@ Jupyter notebooks are cell driving with commands buttons along the top.
 Just hit play button to run code in an active cell.
 
 If your doing the Lab in IBM Booth: #439, once completed, show your executed code to booth rep. and earn your Raspberry Pi 3!
+
