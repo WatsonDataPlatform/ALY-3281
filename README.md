@@ -57,7 +57,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 11
 
 #Step 3. Download Repository.
 
- 1. Download Repository from github https://github.com/WatsonDataPlatform/ALY-3285 to local directory.
+ 1. Download Repository from github https://github.com/WatsonDataPlatform/ALY-3281 to local directory.
  
  >  <img src="https://github.com/WatsonDataPlatform/ALY-3285/blob/master/images/Zip2.png"/>
  
